@@ -22,3 +22,4 @@ Apaixonado por desenvolvimento de Software e suas aplicações!
 
 - Whatapps: (47)9881817-55<br/>
 - Email: douglascomercial10@gmail.com
+- Linkedin: https://www.linkedin.com/in/douglas-l-silva-888568228/
