@@ -1,4 +1,4 @@
-### Full Stack Softwar Engineer
+### Backend Software Engineer
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-l-silva-888568228/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/doug_im_funny/)
@@ -18,6 +18,6 @@
 
 ## Contatos diretos:
 
-- Whatapps: (47)9881817-55<br/>
-- Email: douglascomercial10@gmail.com
+- Whatapps: (47) 98498-7500<br/>
+- Email: douglascomercial03@gmail.com
 - Linkedin: https://www.linkedin.com/in/douglas-l-silva-888568228/
