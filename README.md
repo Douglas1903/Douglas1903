@@ -31,3 +31,4 @@ Experienced with Node.js, TypeScript, Java, and Python, building backend systems
 
 * LinkedIn: https://www.linkedin.com/in/douglas-l-silva/
 * Email: [douglascomercial03@gmail.com](mailto:douglascomercial03@gmail.com)
+* Phone: +55 (47) 98498-7500
